@@ -3,7 +3,7 @@
 Plugin Name: Confirmation Menu Delete
 Description: Ajoute un message de confirmation avant la suppression d'un menu.
 Version: 1.0
-Author: Votre Nom
+Author: Massamba MBAYE
 Author URI: https://www.linkedin.com/in/massamba-mbaye/
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
