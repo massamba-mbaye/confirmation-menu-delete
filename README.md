@@ -1,36 +1,36 @@
-# Documentation du Plugin : Confirmation Menu Delete
+# Plugin Documentation: Confirmation Menu Delete
 
 ## Description
 
-Le plugin "Confirmation Menu Delete" ajoute un message de confirmation avant la suppression d'un menu dans la section d'administration des menus WordPress. Il s'agit d'une mesure de sécurité pour éviter la suppression accidentelle de menus importants.
+The "Confirmation Menu Delete" plugin adds a confirmation message before deleting a menu in the WordPress menu administration section. This is a security measure to prevent the accidental deletion of important menus.
 
-## Caractéristiques
+## Features
 
-- Affiche un message de confirmation avant la suppression d'un menu.
-- Améliore l'expérience de gestion des menus dans WordPress.
+- Displays a confirmation message before deleting a menu.
+- Enhances the menu management experience in WordPress.
 
 ## Installation
 
-1. Téléchargez le fichier ZIP du plugin à partir du [lien de téléchargement](https://drive.google.com/file/d/1k9T8XcGMeakmxOw76x-qIGpPlDjfezvB/view?usp=sharing).
-2. Connectez-vous à votre tableau de bord WordPress.
-3. Accédez à la section "Extensions" > "Ajouter".
-4. Cliquez sur "Importer" en haut de la page.
-5. Sélectionnez le fichier ZIP que vous avez téléchargé.
-6. Cliquez sur "Installer maintenant".
-7. Activez le plugin une fois l'installation terminée.
+1. Download the plugin ZIP file from the [download link](https://drive.google.com/file/d/1k9T8XcGMeakmxOw76x-qIGpPlDjfezvB/view?usp=sharing).
+2. Log in to your WordPress dashboard.
+3. Go to the "Plugins" > "Add New" section.
+4. Click "Upload Plugin" at the top of the page.
+5. Select the ZIP file you downloaded.
+6. Click "Install Now".
+7. Activate the plugin once the installation is complete.
 
-## Utilisation
+## Usage
 
-Après avoir activé le plugin, chaque fois que vous tenterez de supprimer un menu dans la section d'administration des menus WordPress, un message de confirmation s'affichera pour vous demander si vous êtes sûr de vouloir effectuer cette action.
+After activating the plugin, whenever you attempt to delete a menu in the WordPress menu administration section, a confirmation message will appear asking if you are sure you want to proceed with this action.
 
-## Auteur
+## Author
 
-Le plugin "Confirmation Menu Delete" a été développé par Massamba MBAYE (https://www.linkedin.com/in/massamba-mbaye/).
+The "Confirmation Menu Delete" plugin was developed by Massamba MBAYE (https://www.linkedin.com/in/massamba-mbaye/).
 
 ## Support
 
-Si vous rencontrez des problèmes ou avez des questions concernant ce plugin, vous pouvez [nous contacter](mailto:massambambaye95@gmail.com).
+If you encounter any issues or have questions about this plugin, you can [contact us](mailto:massambambaye95@gmail.com).
 
-## Licence
+## License
 
-Confirmation Menu Delete est sous licence GPL v2 ou ultérieure.
+Confirmation Menu Delete is licensed under GPL v2 or later.
