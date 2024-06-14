@@ -1,17 +1,22 @@
-# Plugin Documentation: Confirmation Menu Delete
+=== Confirmation Menu Delete ===
+Contributors: Massamba MBAYE
+Donate link: https://im-mass.com/
+Tags: menu, confirmation, delete
+Requires at least: 4.6
+Tested up to: 6.2
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description
+Adds a confirmation message before deleting a menu in the WordPress menu administration section.
+
+== Description ==
 
 The "Confirmation Menu Delete" plugin adds a confirmation message before deleting a menu in the WordPress menu administration section. This is a security measure to prevent the accidental deletion of important menus.
 
-## Features
+== Installation ==
 
-- Displays a confirmation message before deleting a menu.
-- Enhances the menu management experience in WordPress.
-
-## Installation
-
-1. Download the plugin ZIP file from the [download link](https://drive.google.com/file/d/1k9T8XcGMeakmxOw76x-qIGpPlDjfezvB/view?usp=sharing).
+1. Download the plugin ZIP file from the [download link](https://github.com/massamba-mbaye/confirmation-menu-delete).
 2. Log in to your WordPress dashboard.
 3. Go to the "Plugins" > "Add New" section.
 4. Click "Upload Plugin" at the top of the page.
@@ -19,18 +24,28 @@ The "Confirmation Menu Delete" plugin adds a confirmation message before deletin
 6. Click "Install Now".
 7. Activate the plugin once the installation is complete.
 
-## Usage
+== Frequently Asked Questions ==
+
+= How does the confirmation message work? =
 
 After activating the plugin, whenever you attempt to delete a menu in the WordPress menu administration section, a confirmation message will appear asking if you are sure you want to proceed with this action.
 
-## Author
+== Changelog ==
 
-The "Confirmation Menu Delete" plugin was developed by Massamba MBAYE (https://www.linkedin.com/in/massamba-mbaye/).
+= 1.0 =
+* Initial release.
 
-## Support
+== Upgrade Notice ==
 
-If you encounter any issues or have questions about this plugin, you can [contact us](mailto:massambambaye95@gmail.com).
+= 1.0 =
+Initial release.
 
-## License
+== License ==
 
-Confirmation Menu Delete is licensed under GPL v2 or later.
+This plugin is licensed under the GNU General Public License v2.0 or later.
+
+**Confirmation Menu Delete** is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
+
+**Confirmation Menu Delete** is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this plugin. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
